@@ -19,8 +19,8 @@ namespace Primeiro
 			double medida = 53.234567;
 
 			Console.WriteLine($"Produtos: {produto1}, {produto2}");
-			Console.WriteLine($"{produto1}, cujo preço é $2100,00 " +
-							  $"{produto2}, cujo preço é $650,50");
+			Console.WriteLine($"{produto1}, cujo preço é $ {preco1} " +
+							  $"{produto2}, cujo preço é $ {preco2}");
 
 			Console.WriteLine("Registro: "+ idade + " código é " + codigo + " e gênero: " + genero);
 			Console.WriteLine($"Medida com oito casas decimais :{medida}00");
