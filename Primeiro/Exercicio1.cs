@@ -5,7 +5,7 @@ namespace Primeiro
 {
 	class Exercicio1
 	{
-		static void Main(string[] args)
+		private static void Main(string[] args)
 		{
 			string produto1 = "Computador";
 			string produto2 = "Mesa de escritório";
