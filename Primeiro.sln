@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notas", "Notas\Notas.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MembrosEstaticos", "MembrosEstaticos\MembrosEstaticos.csproj", "{58C638B5-2C33-435F-B380-86E6DC4C809B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioEncapsulamento", "ExercicioEncapsulamento\ExercicioEncapsulamento.csproj", "{5BE8B856-727C-4CDD-92ED-9F35CF68B7A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{58C638B5-2C33-435F-B380-86E6DC4C809B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C638B5-2C33-435F-B380-86E6DC4C809B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C638B5-2C33-435F-B380-86E6DC4C809B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE8B856-727C-4CDD-92ED-9F35CF68B7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE8B856-727C-4CDD-92ED-9F35CF68B7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE8B856-727C-4CDD-92ED-9F35CF68B7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE8B856-727C-4CDD-92ED-9F35CF68B7A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -160,6 +166,7 @@ Global
 		{BEEE164C-25CD-4839-B5FB-612002E735FB} = {1E3ACD5B-2AF1-4538-8E4D-BEBFF4205F88}
 		{47F93639-894A-4258-BCA2-AF43DC436F4B} = {1E3ACD5B-2AF1-4538-8E4D-BEBFF4205F88}
 		{58C638B5-2C33-435F-B380-86E6DC4C809B} = {654BD9E2-48E7-4696-B12E-DF8678C8EFF3}
+		{5BE8B856-727C-4CDD-92ED-9F35CF68B7A0} = {654BD9E2-48E7-4696-B12E-DF8678C8EFF3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {465592BF-097D-4B1D-AD31-120E709763A2}
