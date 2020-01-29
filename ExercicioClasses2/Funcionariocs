@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ExercicioClasses2
+{
+	class Funcio
+	{
+		public double Salario;
+		public 
+	}
+}

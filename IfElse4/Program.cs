@@ -12,9 +12,14 @@ namespace IfElse4
 			int horaInicial = int.Parse(vet[0]);
 			int horaFinal = int.Parse(vet[1]);
 
-			int resultado = horaInicial + horaFinal;
+			int duracao;
 
-			if(horaInicial < 12 && horaFinal)
+			if (horaInicial < horaFinal)
+				duracao = horaFinal - horaInicial;
+			else
+				duracao = 24 - horaInicial + horaFinal;
+
+			Console.WriteLine($"O jogo durou: {duracao}");
 		}
 	}
 }
