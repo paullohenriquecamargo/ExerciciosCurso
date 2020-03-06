@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContratoSalario", "Contrato
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringBuilder", "StringBuilder", "{C8C6D49C-32B6-49E9-B31D-2599A44E195F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostComments", "PostComments\PostComments.csproj", "{298DD0C9-136D-4B92-A234-81758F1BCB14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostComments", "PostComments\PostComments.csproj", "{298DD0C9-136D-4B92-A234-81758F1BCB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProposto", "ExercicioProposto\ExercicioProposto.csproj", "{945290A7-B1BA-47A0-9FCE-5C091C35BD78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -179,6 +181,10 @@ Global
 		{298DD0C9-136D-4B92-A234-81758F1BCB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{298DD0C9-136D-4B92-A234-81758F1BCB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{298DD0C9-136D-4B92-A234-81758F1BCB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945290A7-B1BA-47A0-9FCE-5C091C35BD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945290A7-B1BA-47A0-9FCE-5C091C35BD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945290A7-B1BA-47A0-9FCE-5C091C35BD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945290A7-B1BA-47A0-9FCE-5C091C35BD78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -214,6 +220,7 @@ Global
 		{ED2CFC5F-FC6F-4999-92DD-C0F9BCCE24A2} = {F5F33C3A-497A-40BD-8E88-6F5D1C09BFED}
 		{C8C6D49C-32B6-49E9-B31D-2599A44E195F} = {654BD9E2-48E7-4696-B12E-DF8678C8EFF3}
 		{298DD0C9-136D-4B92-A234-81758F1BCB14} = {C8C6D49C-32B6-49E9-B31D-2599A44E195F}
+		{945290A7-B1BA-47A0-9FCE-5C091C35BD78} = {F5F33C3A-497A-40BD-8E88-6F5D1C09BFED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {465592BF-097D-4B1D-AD31-120E709763A2}
