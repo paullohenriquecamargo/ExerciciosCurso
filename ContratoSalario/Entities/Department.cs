@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ContratoSalario.Entities
+﻿namespace ContratoSalario.Entities
 {
 	public class Department
 	{
